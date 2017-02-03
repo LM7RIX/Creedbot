@@ -277,7 +277,7 @@ function create_config( )
     "stats",
     "server"
     },
-    sudo_users = {239350998,0,tonumber(our_id)},--Sudo users
+    sudo_users = {300882227,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[SuperCreed :
 https://github.com/Creedsteam/SuperCreed
